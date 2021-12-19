@@ -36,6 +36,14 @@ En esta clase se mapean los xpath la barra de búsqueda y el botón de búsqueda
 
 ![Imagen9](https://user-images.githubusercontent.com/95836335/146692993-89c6e82f-73eb-43c7-ae56-4649ededf25d.png)
 
+### SqaFinalChallengeProductsPageObject
+
+En esta clase, hacemos uso del método *replace()*, el cual, se utiliza para reemplazar un carácter especifico en una cadena, en este caso especifico, fue usado para reemplazar el nombre del producto en el xpath general.
+
+Con el método *clickOnProduct* le estamos indicando al programa que de click al producto encontrado.
+
+![Imagen11](https://user-images.githubusercontent.com/95836335/146693359-b16e8c4e-0e70-4d39-a2f1-248b4ad4362b.png)
+
 ### SqaFinalChallengeProductInfoPageObject
 
 En esta clase se relaciona el xpath para obtener el texto o nombre del producto buscado. 
