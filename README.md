@@ -30,6 +30,12 @@ En la clase `SqaFinalChallengeStepDefinitions` se relacionan los snippets corres
 
 ![Imagen7](https://user-images.githubusercontent.com/95836335/146692637-cb21d3dc-6cf4-4f7d-b007-c61934ef81c0.png)
 
+### SqaFinalChallengeHomePageObject
+
+En esta clase se mapean los xpath la barra de búsqueda y el botón de búsqueda de la página principal.
+
+![Imagen9](https://user-images.githubusercontent.com/95836335/146692993-89c6e82f-73eb-43c7-ae56-4649ededf25d.png)
+
 ### Runners
 
 Se configuraron dos runners para ejecutar cada uno de los features; Background y Scenario Template.
