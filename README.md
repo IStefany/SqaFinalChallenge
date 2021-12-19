@@ -17,3 +17,9 @@ La siguiente carpeta contiene dos features; el primero contiene el Scenario Back
 En este **feature** se configuró un Scenario Template con algunos **Examples** que permite buscar cinco productos en una pagina web. 
 
 ![Imagen4](https://user-images.githubusercontent.com/95836335/146691579-866fe535-1473-4fb0-ba08-428e72de6925.png)
+
+### backgroundFailedAndPassedStages.feature
+
+En este **feature** se configuró un Scenario Background, en el cual se ejecutan dos escenarios; uno exitoso y otro fallido. 
+
+![Imagen3](https://user-images.githubusercontent.com/95836335/146691486-87970106-1221-4664-8971-7f1ce42aa021.png)
