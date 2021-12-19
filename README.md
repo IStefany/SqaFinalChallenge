@@ -30,6 +30,12 @@ En la clase `SqaFinalChallengeStepDefinitions` se relacionan los snippets corres
 
 ![Imagen7](https://user-images.githubusercontent.com/95836335/146692637-cb21d3dc-6cf4-4f7d-b007-c61934ef81c0.png)
 
+### Runners
+
+Se configuraron dos runners para ejecutar cada uno de los features; Background y Scenario Template.
+
+![Imagen8](https://user-images.githubusercontent.com/95836335/146692790-6b627253-aef3-442a-b12e-8fd769ac7ab7.png)
+
 ## Resultado de las pruebas
 
 ### Resultado del Background
