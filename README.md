@@ -22,7 +22,7 @@ En este **feature** se configuró un Scenario Template con algunos **Examples** 
 
 En este **feature** se configuró un Scenario Background, en el cual se ejecutan dos escenarios; uno exitoso y otro fallido. 
 
-![Imagen3](https://user-images.githubusercontent.com/95836335/146691486-87970106-1221-4664-8971-7f1ce42aa021.png)
+![Imagen3](https://user-images.githubusercontent.com/95836335/146692142-dda59cc1-526c-475b-8e70-9c25d531c111.png)
 
 ### Steps Definition
 
