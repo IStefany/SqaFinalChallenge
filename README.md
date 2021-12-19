@@ -36,6 +36,12 @@ En esta clase se mapean los xpath la barra de búsqueda y el botón de búsqueda
 
 ![Imagen9](https://user-images.githubusercontent.com/95836335/146692993-89c6e82f-73eb-43c7-ae56-4649ededf25d.png)
 
+### SqaFinalChallengeProductInfoPageObject
+
+En esta clase se relaciona el xpath para obtener el texto o nombre del producto buscado. 
+
+![Imagen10](https://user-images.githubusercontent.com/95836335/146693176-c8a56d75-3f39-40c9-84ba-23574c33bb05.png)
+
 ### Runners
 
 Se configuraron dos runners para ejecutar cada uno de los features; Background y Scenario Template.
