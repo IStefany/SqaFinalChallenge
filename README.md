@@ -30,6 +30,12 @@ En la clase `SqaFinalChallengeStepDefinitions` se relacionan los snippets corres
 
 ![Imagen7](https://user-images.githubusercontent.com/95836335/146692637-cb21d3dc-6cf4-4f7d-b007-c61934ef81c0.png)
 
+### SqaFinalChallengeSteps
+
+En esta clase se declaran los pasos a emplear en los Steps Definitions.
+
+![Imagen12](https://user-images.githubusercontent.com/95836335/146693506-199ca9a5-f4e9-4847-9d57-c53117077fe7.png)
+
 ### SqaFinalChallengeHomePageObject
 
 En esta clase se mapean los xpath la barra de búsqueda y el botón de búsqueda de la página principal.
