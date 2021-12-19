@@ -23,3 +23,12 @@ En este **feature** se configuró un Scenario Template con algunos **Examples** 
 En este **feature** se configuró un Scenario Background, en el cual se ejecutan dos escenarios; uno exitoso y otro fallido. 
 
 ![Imagen3](https://user-images.githubusercontent.com/95836335/146691486-87970106-1221-4664-8971-7f1ce42aa021.png)
+
+## Resultado de las pruebas
+
+### Resultado del Background
+
+Al ejecutar el runner del background `BackgroundRunner `se obtiene como resultado un resultado exitoso, ya que encontró el producto buscado en la pagina web; y un resultado fallido, ya que no encuentra el producto buscado.
+
+![Imagen5](https://user-images.githubusercontent.com/95836335/146692190-6885180c-127b-4b50-875b-5a672c27876c.png)
+
