@@ -12,6 +12,8 @@ La siguiente carpeta contiene dos features; el primero contiene el Scenario Back
 
 ![Imagen2](https://user-images.githubusercontent.com/95836335/146691271-0f0b4ed5-9fa6-4bdd-9aee-025317efb0e8.png)
 
+### sqaFinalChallenge.feature
+
 En este **feature** se configuró un Scenario Template con algunos **Examples** que permite buscar cinco productos en una pagina web. 
 
 ![Imagen4](https://user-images.githubusercontent.com/95836335/146691579-866fe535-1473-4fb0-ba08-428e72de6925.png)
