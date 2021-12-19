@@ -32,7 +32,7 @@ En la clase `SqaFinalChallengeStepDefinitions` se relacionan los snippets corres
 
 ### SqaFinalChallengeSteps
 
-En esta clase se declaran los pasos a emplear en los Steps Definitions.
+En esta clase se crean los pasos a emplear en los Steps Definitions.
 
 ![Imagen12](https://user-images.githubusercontent.com/95836335/146693506-199ca9a5-f4e9-4847-9d57-c53117077fe7.png)
 
