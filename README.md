@@ -24,6 +24,12 @@ En este **feature** se configuró un Scenario Background, en el cual se ejecutan
 
 ![Imagen3](https://user-images.githubusercontent.com/95836335/146691486-87970106-1221-4664-8971-7f1ce42aa021.png)
 
+### Steps Definition
+
+En la clase `SqaFinalChallengeStepDefinitions` se relacionan los snippets correspondientes a los escenarios planteados:
+
+![Imagen7](https://user-images.githubusercontent.com/95836335/146692637-cb21d3dc-6cf4-4f7d-b007-c61934ef81c0.png)
+
 ## Resultado de las pruebas
 
 ### Resultado del Background
