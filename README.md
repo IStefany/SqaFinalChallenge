@@ -32,3 +32,9 @@ Al ejecutar el runner del background `BackgroundRunner `se obtiene como resultad
 
 ![Imagen5](https://user-images.githubusercontent.com/95836335/146692190-6885180c-127b-4b50-875b-5a672c27876c.png)
 
+### Resultado del Scenario Template
+
+Cuanto se ejecuta el runner `SqaFinalChallengeRunner` se obtiene el siguiente resultado en la prueba. Se puede observar que buscó exitosamente los cinco productos relacionados en los **examples**.
+
+![Imagen6](https://user-images.githubusercontent.com/95836335/146692479-4850a02d-669b-40bf-b4ae-0afa7313b9bc.png)
+
